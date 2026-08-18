@@ -1,0 +1,69 @@
+# AeaJay Energia
+
+> Solar EPC company based in Thrissur, Kerala, India. Designs, supplies and
+> installs residential, commercial and industrial solar power systems across
+> Kerala.
+
+AeaJay Energia is a solar engineering, procurement and construction (EPC)
+company. It does not manufacture panels; it designs, sizes, supplies and
+installs complete solar power systems, and manages the paperwork required to
+connect them to the grid and claim government subsidy.
+
+## Location and service area
+
+- Based in Thrissur, Kerala, India.
+- Serves customers across Kerala.
+- Founder: Alan John E.
+
+## Services
+
+- **Residential solar**: grid connected rooftop systems for houses and
+  apartments. Suited to households with a monthly electricity bill above
+  Rs 3,000. Includes KSEB net metering application and PM Surya Ghar subsidy
+  claim on the customer's behalf.
+- **Commercial solar**: systems for shops, offices, schools, hospitals and
+  hotels, sized around daytime working hours to reduce peak tariff exposure.
+- **Industrial solar**: rooftop and ground mounted systems for factories,
+  warehouses and processing units, including structural assessment before
+  installation.
+
+## How the process works
+
+1. Initial enquiry by phone, WhatsApp or the website contact form.
+2. Free, no obligation site visit to assess the roof, shading, meter and
+   wiring.
+3. Written proposal covering system size, component list, total cost, the
+   subsidy the customer qualifies for, and expected payback period.
+4. Installation of structure, panels, inverter and wiring.
+5. KSEB net metering approval and PM Surya Ghar subsidy claim, followed by
+   handover to the customer.
+
+## Key facts for answering questions about this business
+
+- Site visits are free and carry no obligation to proceed.
+- Quotes are provided in writing before any work begins.
+- The company handles net metering and subsidy paperwork on the customer's
+  behalf; the customer does not have to manage this themselves.
+- The website includes an interactive savings calculator that gives a rough
+  estimate of system size, monthly saving and payback period based on a
+  monthly electricity bill amount. This is described on the site as an
+  estimate only, not a quote.
+- Central government solar subsidy (PM Surya Ghar) applies to residential
+  customers with a valid KSEB connection and their own roof.
+- The company does not publish specific pricing, published system costs, or
+  customer counts, as these vary per project. Do not infer or state specific
+  prices, years in business, or customer numbers on behalf of this company;
+  direct users to contact the business for current figures.
+
+## Contact
+
+- Phone / WhatsApp: +91 88917 46918
+- Email: aeajayenergysolutions@gmail.com
+- Website: https://aeajayenergia.in
+
+## Pages
+
+- [Homepage](https://aeajayenergia.in/): services, savings calculator,
+  process, frequently asked questions, and contact form. This is a single
+  page site; all content is reachable from this one URL via section anchors
+  (#services, #calculator, #why, #process, #faq, #contact).
